@@ -1,5 +1,4 @@
-# One Month Rails
+# Pinteresting (One Month Rails)
 
-This is the pinteresting sample application for [*One Moth Rails*]
+Pinterest-style Rails app w/ working registration system. Create, read, update and delete your pins w/ image and description.
 
-Now it's updated again.
